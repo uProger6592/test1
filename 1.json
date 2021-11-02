@@ -1,14 +1,14 @@
 [
   {
 	"all": "9",
-	"0": 'https://www.google.com/',
-	"1": 'https://www.blockchain.com/',
-	"2": 'https://www.instagram.com/',
-	"3": 'https://www.binance.com/ru',
-	"4": 'https://www.binance.com/en',
-	"5": 'https://crex24.com/ru/exchange/LTC-BTC',
-	"6": 'https://crex24.com/en/exchange/LTC-BTC',
-	"7": 'https://vk.com/feed',
-	"8": 'https://store.steampowered.com/'
+	"0": "https://www.google.com/",
+	"1": "https://www.blockchain.com/",
+	"2": "https://www.instagram.com/",
+	"3": "https://www.binance.com/ru",
+	"4": "https://www.binance.com/en",
+	"5": "https://crex24.com/ru/exchange/LTC-BTC",
+	"6": "https://crex24.com/en/exchange/LTC-BTC",
+	"7": "https://vk.com/feed",
+	"8": "https://store.steampowered.com/"
   }
 ]
